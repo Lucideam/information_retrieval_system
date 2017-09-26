@@ -1,2 +1,4 @@
 *.pyproj
 *.sln
+**/.idea/workspace.xml
+**/.idea/tasks.xml

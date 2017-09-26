@@ -12,6 +12,11 @@ from operator import itemgetter
 import abc
 import re
 import numpy as np
+
+#TODO: corpora from nltk.corpus and gensim.corpora
+
+
+
 ###################################################################################
 ## @class   InformationRetrievalSystem
 #  @brief   This class represents the InformationRetrievalSystem, i.e., basic methods 
